@@ -7,4 +7,7 @@
 \f0\fs24 \cf0 git is version control system\
 \
 new message:\
-i can do it!}
+i can do it!\
+\
+good news:\
+git so cool}
